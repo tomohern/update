@@ -14,7 +14,7 @@ BASE_URL="https://raw.githubusercontent.com/tomohern/kmsh/refs/heads/main/${CCAP
 
 
 # Output directory
-OUTDIR="$HOME/update"
+OUTDIR="/home/csats/update"
 
 # Filenames to download
 FILES=("1" "2" "3" "4")
