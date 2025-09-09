@@ -10,7 +10,7 @@ fi
 read -p "Enter CCAP Number: " CCAP
 
 # Base URL
-BASE_URL="https://raw.githubusercontent.com/tomohern/kmsh/refs/heads/main/${CCAP}"
+BASE_URL="https://raw.githubusercontent.com/tomohern/keytests/refs/heads/main/${CCAP}"
 
 
 # Output directory
